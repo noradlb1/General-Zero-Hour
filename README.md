@@ -8,15 +8,11 @@ General-Zero-Hour
 ** **
 
 Fix All Problems
-
-Add Mods
-
-Add Maps
-
-Add Armies
-
-Download The Game From Tool And Site
-
-PC Full Info
+===============
+- Add Mods
+- Add Maps
+- Add Armies
+- Download The Game From Tool And Site
+- PC Full Info
 
 ** **

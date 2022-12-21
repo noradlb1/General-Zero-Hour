@@ -1,0 +1,19 @@
+C:\Users\MONSTERMC\source\repos\Genrals Zero H\Genrals Zero H\obj\Debug\Genrals_Zero_H.Resources.resources
+C:\Users\MONSTERMC\source\repos\Genrals Zero H\Genrals Zero H\obj\Debug\Genrals Zero H.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\source\repos\Genrals Zero H\Genrals Zero H\obj\Debug\Genrals Zero H.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\source\repos\Genrals Zero H\Genrals Zero H\obj\Debug\Genrals_Zero_H.Form1.resources
+C:\Users\MONSTERMC\source\repos\Genrals Zero H\Genrals Zero H\obj\Debug\Genrals Zero H.vbproj.AssemblyReference.cache
+C:\Users\MONSTERMC\source\repos\Genrals Zero H\Genrals Zero H\bin\Debug\Interop.WMPLib.dll
+C:\Users\MONSTERMC\source\repos\Genrals Zero H\Genrals Zero H\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MONSTERMC\source\repos\Genrals Zero H\Genrals Zero H\obj\Debug\Interop.WMPLib.dll
+C:\Users\MONSTERMC\source\repos\Genrals Zero H\Genrals Zero H\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MONSTERMC\source\repos\Genrals Zero H\Genrals Zero H\obj\Debug\Genrals Zero H.vbproj.ResolveComReference.cache
+C:\Users\MONSTERMC\source\repos\Genrals Zero H\Genrals Zero H\bin\Debug\General Zero Hour.exe.config
+C:\Users\MONSTERMC\source\repos\Genrals Zero H\Genrals Zero H\bin\Debug\General Zero Hour.exe
+C:\Users\MONSTERMC\source\repos\Genrals Zero H\Genrals Zero H\bin\Debug\General Zero Hour.pdb
+C:\Users\MONSTERMC\source\repos\Genrals Zero H\Genrals Zero H\bin\Debug\General Zero Hour.xml
+C:\Users\MONSTERMC\source\repos\Genrals Zero H\Genrals Zero H\obj\Debug\General Zero Hour.exe
+C:\Users\MONSTERMC\source\repos\Genrals Zero H\Genrals Zero H\obj\Debug\General Zero Hour.xml
+C:\Users\MONSTERMC\source\repos\Genrals Zero H\Genrals Zero H\obj\Debug\General Zero Hour.pdb
+C:\Users\MONSTERMC\source\repos\Genrals Zero H\Genrals Zero H\bin\Debug\Class_Computer_Info.dll
+C:\Users\MONSTERMC\source\repos\Genrals Zero H\Genrals Zero H\obj\Debug\Genrals Zero H.vbproj.CopyComplete

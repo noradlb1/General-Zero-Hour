@@ -1,0 +1,60 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="Monye" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Color = 1
+FPS = 60
+Map = maps\basin battle\basin battle.map
+PlayerTemplate = 4
+SlotList = US=1;M=03maps/basin battle;MC=701A06B5;MS=128235;SD=4915921;C=100;SR=1;SC=90000000;O=N;S=HDESKTOP-U75BOV3,0,0,TT,1,4,1,0,1:CH,-1,-1,-1,-1:X:X:X:X:X:X:;
+StartingCash = %%URL1%%
+SuperweaponRestrict = Yes
+UserName = D_00E_00S_00K_00T_00O_00P_00_2D_00U_007_005_00B_00O_00V_003_00</Value>
+    </Setting>
+    <Setting Name="MonyeOfilne" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Color = 7
+Map = maps_5Ctwilight_20flame_5Ctwilight_20flame_2Emap
+NumRemoteIPs = 1
+PlayerTemplate = 6
+RemoteIP0 = 25.65.81.130:S_00A_00K_00U_00R_00A_00
+StartingCash = %%URL1%%
+SuperweaponRestrict = Yes
+UseSystemMapDir = yes
+UserName = M_00O_00N_00S_00T_00E_00R_00M_00C_00</Value>
+    </Setting>
+    <Setting Name="Options1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">AntiAliasing = 0
+BuildingOcclusion = yes
+DrawScrollAnchor = 
+DynamicLOD = no
+ExtraAnimations = yes
+GameSpyIPAddress = 0.0.0.0
+Gamma = 50
+HeatEffects = yes
+IPAddress = 0.0.0.0
+IdealStaticGameLOD = High
+LanguageFilter = false
+MaxParticleCount = 5000
+MoveScrollAnchor = 
+MusicVolume = 55
+Resolution = %%URL1%%
+Retaliation = yes
+SFX3DVolume = 79
+SFXVolume = 71
+ScrollFactor = 50
+SendDelay = no
+ShowSoftWaterEdge = yes
+ShowTrees = yes
+StaticGameLOD = Custom
+TextureReduction = 0
+UseAlternateMouse = no
+UseCloudMap = yes
+UseDoubleClickAttackMove = no
+UseLightMap = yes
+UseShadowDecals = yes
+UseShadowVolumes = yes
+VoiceVolume = 70</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
